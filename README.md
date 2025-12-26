@@ -1,2 +1,2 @@
-# CRUD-Application-Using-VueJs-VIte-Inertia-Laravel
+# CRUD-Application-Using-VueJs-Vite-Inertia-Laravel
 A simple PHP CRUD project using VueJs+VIte+Inertia+Laravel and sqllite.
